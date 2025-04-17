@@ -1,0 +1,13 @@
+pydantic 
+langchain
+langchain-groq
+langgraph
+streamlit
+python-dotenv
+langchain-core
+langchain-community
+langchain-ollama
+pandas 
+numpy
+pypdf
+ollama
